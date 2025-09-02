@@ -46,6 +46,10 @@
 ** 게시판 **
 <img width="2490" height="1388" alt="image" src="https://github.com/user-attachments/assets/e526f566-40aa-4f74-934d-390b19134f12" />
 
+** 댓글+대댓글 **
+<img width="2496" height="1380" alt="image" src="https://github.com/user-attachments/assets/6be58667-695e-4033-96ec-2c21c3467934" />
+
+
 
 
 
