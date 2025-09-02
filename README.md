@@ -43,9 +43,7 @@
 ** 장바구니 **
 <img width="2490" height="1389" alt="image" src="https://github.com/user-attachments/assets/38ecdaf4-e8a9-4cbe-bc2a-b845a31f6226" />
 
-
-
-
+** 게시판 **
 <img width="2490" height="1388" alt="image" src="https://github.com/user-attachments/assets/e526f566-40aa-4f74-934d-390b19134f12" />
 
 
