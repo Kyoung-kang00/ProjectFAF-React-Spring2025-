@@ -34,9 +34,20 @@
 
 # 주요기능 
 
+** 메인 **
 <img width="2500" height="1386" alt="image" src="https://github.com/user-attachments/assets/7a87999f-ed7d-426a-908e-2d781e69577a" />
 
+** 마켓 **
 <img width="2499" height="1389" alt="image" src="https://github.com/user-attachments/assets/00b6dcca-d597-4203-90fe-782f4db23cde" />
+
+** 장바구니 **
+<img width="2490" height="1389" alt="image" src="https://github.com/user-attachments/assets/38ecdaf4-e8a9-4cbe-bc2a-b845a31f6226" />
+
+
+
+
+<img width="2490" height="1388" alt="image" src="https://github.com/user-attachments/assets/e526f566-40aa-4f74-934d-390b19134f12" />
+
 
 
 
