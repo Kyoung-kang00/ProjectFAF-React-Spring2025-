@@ -34,21 +34,32 @@
 
 # 주요기능 
 
-** 메인 **
-<img width="2500" height="1386" alt="image" src="https://github.com/user-attachments/assets/7a87999f-ed7d-426a-908e-2d781e69577a" />
+마켓 장바구니
+<img width="1100" height="618" alt="image" src="https://github.com/user-attachments/assets/4b2a9f74-fa38-4dd7-9024-5a93133f2041" />
 
-** 마켓 **
-<img width="2499" height="1389" alt="image" src="https://github.com/user-attachments/assets/00b6dcca-d597-4203-90fe-782f4db23cde" />
+<img width="1113" height="618" alt="image" src="https://github.com/user-attachments/assets/7998ba51-b4ab-4884-a9f2-a57cb57dfd79" />
 
-** 장바구니 **
-<img width="2490" height="1389" alt="image" src="https://github.com/user-attachments/assets/38ecdaf4-e8a9-4cbe-bc2a-b845a31f6226" />
+         
+문제풀이기능
+<img width="1800" height="896" alt="image" src="https://github.com/user-attachments/assets/e9637fea-e371-44c2-86f8-d68f37b11473" />
 
-** 게시판 **
-<img width="2490" height="1388" alt="image" src="https://github.com/user-attachments/assets/e526f566-40aa-4f74-934d-390b19134f12" />
 
-** 댓글+대댓글 **
-<img width="2496" height="1380" alt="image" src="https://github.com/user-attachments/assets/6be58667-695e-4033-96ec-2c21c3467934" />
+AI코드 어시스턴트
+<img width="1854" height="920" alt="image" src="https://github.com/user-attachments/assets/1ee2cf7b-caa3-458b-97f0-45612e683906" />
 
+
+코딩테스트
+<img width="1854" height="913" alt="image" src="https://github.com/user-attachments/assets/a11e73f6-091c-4f45-8082-3193ac575457" />
+
+
+시험관리 & 사용자관리
+<img width="1137" height="633" alt="image" src="https://github.com/user-attachments/assets/8a30690e-f577-4357-84f6-9037d8e00b75" />
+
+
+커뮤니티&게시글기능
+<img width="1248" height="694" alt="image" src="https://github.com/user-attachments/assets/17a596b1-cbdd-4707-81da-d05dd2213959" />
+
+<img width="1249" height="693" alt="image" src="https://github.com/user-attachments/assets/9021d398-ec56-4be1-961b-d139589d458a" />
 
 
 
@@ -58,6 +69,9 @@
 
 
 # 데이터베이스
+
+<img width="2446" height="1404" alt="image" src="https://github.com/user-attachments/assets/3be149b8-98dd-46ab-92ed-147dfe60ff0c" />
+
 
 <
 
